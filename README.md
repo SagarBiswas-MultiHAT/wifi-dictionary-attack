@@ -27,7 +27,7 @@ A Python script designed for dictionary attacks on Wi-Fi networks. This tool use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/wifi-dictionary-attack.git
+   git clone https://github.com/yourusername/wifi-dictionary-attack.git](https://github.com/SagarBiswas-MultiHAT/wifi-dictionary-attack.git
    cd wifi-dictionary-attack
    ```
 
