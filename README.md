@@ -1,6 +1,6 @@
 # Wi-Fi Dictionary Attack Script
 
-![Wi-Fi Dictionary Attack Script.](https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/472164159_122132600852552158_308106551468257020_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qVW9r5pqHRUQ7kNvgE01j8Q&_nc_zt=23&_nc_ht=scontent.fdac138-1.fna&_nc_gid=AnYHaexTcPmSec2e-1kMR7D&oh=00_AYDjfRDvox5sr-Kdh-VXJJ3b5nAPVgPRpatl2su1PwPzew&oe=677AC065)
+![Wi-Fi Dictionary Attack Script.](https://imgur.com/sEFTBgT.png)
 
 This Python script is designed to perform a dictionary attack on a Wi-Fi network using the `pywifi` library. It scans available Wi-Fi networks, targets a specific SSID, and attempts to connect using passwords from a given file. Ideal for educational purposes and security testing.
 
