@@ -77,8 +77,5 @@ If no interfaces are listed, troubleshoot your Wi-Fi driver or dependencies.
 - **For Educational Purposes Only**: This script is intended for ethical hacking and security testing. Do not use it on networks you do not own or have permission to test.
 - Ensure your system has proper drivers and permissions to manage Wi-Fi connections.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Disclaimer
 The author is not responsible for any misuse of this script. Use responsibly and ethically.
