@@ -32,7 +32,7 @@ This Python script is designed to perform a dictionary attack on a Wi-Fi network
 2. Update the `target_ssid` variable in the script with the SSID of your target Wi-Fi network.
 3. Run the script:
    ```bash
-   python3 wifi_dictionary_attack.py
+   python3 WiFi-Dictionary-Attack_v1.2.py
    ```
 
 ## Steps to Make It Work on Kali Linux
