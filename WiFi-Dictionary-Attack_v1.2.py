@@ -26,7 +26,7 @@ try:
     iface = wifi.interfaces()[0]  # Get the primary Wi-Fi adapter
 
     # Specify the target SSID
-    target_ssid = "Sagar_Biswas_5.4G"
+    target_ssid = "Sagar_Biswas_5G"
 
     # Load the password dictionary from the file
     password_file = "passwords.txt"  # Path to your passwords file
@@ -79,3 +79,4 @@ finally:
     if iface.status() == const.IFACE_CONNECTED:
         iface.disconnect()
     print("\n...::: Attack finished :::...\n")
+
